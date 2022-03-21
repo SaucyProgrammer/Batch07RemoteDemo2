@@ -53,7 +53,10 @@ public class Main {
 
         System.out.println("THANK YOU FOR USING DUOTECH TAA! GOODBYE!");
 
+        System.out.println("Added more code to this repository: 2");
     }
+
+
 
     }
 
