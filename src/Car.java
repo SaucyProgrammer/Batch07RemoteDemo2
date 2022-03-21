@@ -42,6 +42,11 @@ public class Car extends Vehicle {
     }
     /** Added first edited line of code: 1**/
 
+    /** Second line of edit code in this file: 3
+     * System.out.println("Hello, World!");
+     * **/
+
+
     @Override
     public String toString() {
         return "Car:   " + getDistanceTraveled()+ "   "+"$"+this.getToll();
