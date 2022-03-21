@@ -40,6 +40,7 @@ public class Car extends Vehicle {
 
      }
     }
+    /** Added first edited line of code: 1**/
 
     @Override
     public String toString() {
