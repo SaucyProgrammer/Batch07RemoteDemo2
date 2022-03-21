@@ -13,5 +13,9 @@ public class PoliceCruiser extends Vehicle {
     public String toString() {
         return "PoliceCruiser:   " + getDistanceTraveled() + "     " + "$" + this.getToll();
     }
+    public static void main(String args){
+        System.out.println("Hello, Zak's computer!");
+    
+    }
 
 }
