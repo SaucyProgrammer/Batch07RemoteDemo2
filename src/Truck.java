@@ -36,6 +36,8 @@ public class Truck extends Vehicle{
         }
 
         setToll(toll);
+        // Added comment for more github practice.
+        System.out.println("Github practice, Hey Zak!");
 
     }
 
